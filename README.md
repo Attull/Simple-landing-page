@@ -2,8 +2,8 @@
 
 here are some screenshots of above project
 
-![](screenshots/1.png)
+![](screenshoots/1.png)
 
-![](screenshots/2.png)
+![](screenshoots/2.png)
 
-![](screenshots/3.png)
+![](screenshoots/3.png)
